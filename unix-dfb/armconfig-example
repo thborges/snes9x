@@ -1,0 +1,1 @@
+PKG_CONFIG_PATH=/usr/arm-none-linux-gnueabi/usr/lib/pkgconfig ./configure --host=arm-none-linux-gnueabi
