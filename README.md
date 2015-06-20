@@ -11,3 +11,6 @@ A frontend based on DirectFB for full screen display
       - R = reset
       - ESC = exit
   - Default gamepad also tested, using default buttons
+
+Running full screen on TV and an Bricked ARM Blu-ray Player
+![Running full screen on TV and an ARM Bricked Blu-ray Player](https://github.com/thborges/snes9x/blob/master/IMG_1030.JPG)
